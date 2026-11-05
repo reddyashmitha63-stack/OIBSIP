@@ -58,3 +58,19 @@ This project helped me understand how sentiment analysis can be useful for busin
 ## Limitation
 
 One limitation of this project is that sentiment labels were created using star ratings. Sometimes the written review may express a different opinion from the rating given by the customer, which can affect the model's predictions.
+## Project Screenshots
+
+### 1. Star Rating Distribution
+![Rating Distribution](screenshots/rating_distribution.png)
+
+### 2. Sentiment Distribution
+![Sentiment Distribution](screenshots/sentiment_distribution.png)
+
+### 3. WordCloud Visualization
+![WordClouds](screenshots/wordclouds.png)
+
+### 4. Naive Bayes Confusion Matrix
+![Naive Bayes](screenshots/naive_bayes_confusion_matrix.png)
+
+### 5. Logistic Regression Confusion Matrix
+![Logistic Regression](screenshots/logistic_regression_confusion_matrix.png)
